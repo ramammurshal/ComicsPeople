@@ -1,0 +1,4 @@
+cara menjalankan seeder:
+php spark db:seed NamaSeeder 
+
+truncate -> sesuatu yang a_i akan dimulai lagi dari nilai 1

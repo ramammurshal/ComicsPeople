@@ -1,0 +1,9 @@
+cara buat migration:
+php spark migrate:create Orang
+
+Nama migrate usahakan sama dengan nama table
+
+Cara mengeksekusi migrasi:
+php spark migrate
+
+table migration di dbms melacak semua perubahan tabel yang terjadi 
